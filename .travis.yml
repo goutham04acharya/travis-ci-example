@@ -1,0 +1,4 @@
+language: bash
+
+script:
+  - echo "🎉 Travis CI build is running successfully!"
